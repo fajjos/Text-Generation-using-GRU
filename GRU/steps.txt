@@ -1,0 +1,8 @@
+1 - Downloading the Penn's Treebank dataset (first 5000 words)
+2 - Loading the model on the dataset.
+3 - Steps to include:
+Loading the dataset from the text file.
+Preprocessing the text data (tokenization, creating sequences, etc.).
+Defining a GRU-based model.
+Training the model.
+(Optional) Demonstrating how to generate text using the trained model.
