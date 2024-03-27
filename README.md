@@ -8,8 +8,10 @@ Utilizes GRU neural networks for text generation.
 Includes a web application interface for easy interaction.
 Allows users to input a starting text and generate text continuations of desired length.
 Provides flexibility in adjusting parameters such as temperature for text generation.
-Usage:
 
+DataSet Used: Penn's Treebank.
+
+Usage:
 Clone the repository.
 Install the necessary dependencies.
 Run the Flask web application.
